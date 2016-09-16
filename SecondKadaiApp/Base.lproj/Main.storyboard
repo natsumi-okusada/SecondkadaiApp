@@ -25,9 +25,6 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
-                                <connections>
-                                    <segue destination="9CK-9m-2kx" kind="show" id="HHu-gN-pU1"/>
-                                </connections>
                             </textField>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="名前を入力してください" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="h7H-hq-nrO">
                                 <rect key="frame" x="200" y="220" width="201" height="20"/>
@@ -117,7 +114,4 @@
             <point key="canvasLocation" x="760" y="299"/>
         </scene>
     </scenes>
-    <inferredMetricsTieBreakers>
-        <segue reference="sRF-ws-mzd"/>
-    </inferredMetricsTieBreakers>
 </document>
